@@ -1,7 +1,12 @@
-# Omni-Food---Website
-A website built from scratch using HTML5, CSS3 and jQuery. 
+# Omni-Food
 
-https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/  Build Responsive Real World Websites with HTML5 and CSS3, Created by Jonas Schmedtmann
+#### A Website built from scratch using HTML5, CSS3 and jQuery 
 
-In this Udemy course, Jonas Schmedtmann built this website to teach students HTML and CSS.
-So when I went throught this course, I copied every step to built this website. 
+<img src="Omnifood.png" alt="Omnifood-Website-Photo"/>
+
+<br>
+
+##### *Udemy Course: Build Responsive Real World Websites with HTML5 and CSS3, Created by Jonas Schmedtmann* https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/  
+
+ - ##### *Learned a lot of CSS property and some sort of jQuery*
+
